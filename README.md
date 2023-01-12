@@ -1,5 +1,3 @@
-<img align="centre" alt="Banner" width="1000" height = "280" src="https://blog.pareto.io/wp-content/uploads/2018/04/Headers-_-Blog-Pareto-15.png">
-
 <h1 align="center">Hey, I'm Sanskriti Sinha! 👋🏼</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
 
